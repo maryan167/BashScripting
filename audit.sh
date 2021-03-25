@@ -1,8 +1,8 @@
 #!/bin/bash
 
 uptime=$(uptime | xargs)
-cur_users=$(who | cut -f1 -d' ')
-cur_users=$(echo "$cur_users" | tr '\n' ' ')
+
+cur_users=$(who | cut -f1 -d' ' | tr '\n' ' ')
 
 last_users=$(last -4 -R)
 
