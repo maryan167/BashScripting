@@ -1,0 +1,15 @@
+{
+	"nameserver": "127.0.0.53",
+	"distrib_id": "Ubuntu",
+	"nodename": "jkpc",
+	"distrib_release": "20.04",
+	"distrib_description": "Ubuntu 20.04.2 LTS",
+	"distrib_codename": "focal",
+	"ufw_status": "inactive",
+	"operating_system": "GNU/Linux",
+	"kernel_name": "Linux",
+	"network_interfaces": "[lo, enp2s0, wlp3s0, docker0]",
+	"machine": "x86_64",
+	"kernel_version": "#54~20.04.1-Ubuntu SMP Sat Mar 20 13:40:25 UTC 2021",
+	"kernel_release": "5.8.0-48-generic"
+}
