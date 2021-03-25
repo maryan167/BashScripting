@@ -1,15 +1,15 @@
 {
-	"nameserver": "127.0.0.53",
-	"distrib_id": "Ubuntu",
-	"nodename": "jkpc",
-	"distrib_release": "20.04",
-	"distrib_description": "Ubuntu 20.04.2 LTS",
-	"distrib_codename": "focal",
-	"ufw_status": "inactive",
-	"operating_system": "GNU/Linux",
-	"kernel_name": "Linux",
-	"network_interfaces": "[lo, enp2s0, wlp3s0, docker0]",
+	"distrib_release": "18.04",
 	"machine": "x86_64",
-	"kernel_version": "#54~20.04.1-Ubuntu SMP Sat Mar 20 13:40:25 UTC 2021",
-	"kernel_release": "5.8.0-48-generic"
+	"network_interfaces": "[lo, enp0s3]",
+	"distrib_description": "Ubuntu 18.04.5 LTS",
+	"kernel_name": "Linux",
+	"distrib_id": "Ubuntu",
+	"operating_system": "GNU/Linux",
+	"nameserver": "127.0.0.53",
+	"ufw_status": "inactive",
+	"kernel_version": "#143-Ubuntu SMP Tue Mar 16 01:30:17 UTC 2021",
+	"kernel_release": "4.15.0-139-generic",
+	"distrib_codename": "bionic",
+	"nodename": "maryan-VirtualBox"
 }
